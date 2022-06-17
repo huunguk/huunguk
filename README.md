@@ -22,7 +22,7 @@
  
 #### Go to 🙉
   
-[Blog](https://jinhyeounguk.tistory.com/) / [Github](https://github.com/huunguk)
+🔵 [Blog](https://jinhyeounguk.tistory.com/)  ⚪ [Github](https://github.com/huunguk)
 
   
   
