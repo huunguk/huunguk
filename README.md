@@ -1,7 +1,6 @@
 <div align="center">
   
-##Hi there  👋
-
+### Hi there  👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuunguk&count_bg=%2372FFF8&title_bg=%23000000&icon=baidu.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### Front-End Tech Stack
@@ -14,6 +13,7 @@
 <a href="https://github.com/huunguk"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/huunguk"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>  
 <a href="https://www.instagram.com/huunguk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/huunguk"/>
 
 <!-- 등급표시 -->
