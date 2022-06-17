@@ -23,9 +23,7 @@
 <!-- 등급표시 -->
 ![huunguk's github stats](https://github-readme-stats.vercel.app/api?username=huunguk&show_icons=true)
   
- ### Blog For Learning 
-  
-[Blog For Learning ](https://jinhyeounguk.tistory.com/)
+ ### [Blog For Learning ](https://jinhyeounguk.tistory.com/)
   
 </div>
 
