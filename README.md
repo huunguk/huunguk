@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=400&section=header&text=Jin%20Hyeonguk&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=400&section=header&text=Hwuk%20development%20work&fontSize=35)
   
   
 ### Hi there. welcome to my page 👋
