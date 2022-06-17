@@ -1,5 +1,12 @@
 ### Hi there 👋
 ### I'm JinHyeongUk 🌱
+
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+
+
+
+
 <!--
 **huunguk/huunguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
