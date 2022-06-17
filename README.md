@@ -1,6 +1,6 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=Shark&animation=blinking&color=auto&height=150&section=header&text=Hwuk%20development%20work&fontColor=000000&fontSize=35)](https://github.com/huunguk)
+[![header](https://capsule-render.vercel.app/api?type=Shark&animation=scaleIn&color=auto&height=150&section=header&text=Hwuk%20development%20work&fontColor=000000&fontSize=35)](https://github.com/huunguk)
   
   
 ### Hi there. welcome to my page 👋
