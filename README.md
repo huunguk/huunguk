@@ -1,4 +1,7 @@
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Jin%20Hyeonguk&fontSize=90)
+  
   
 ### Hi there. welcome to my page 👋
 ### I will kepp you updated ❕ 😆
