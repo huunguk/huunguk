@@ -22,7 +22,7 @@
 #### connect 📱 
 <a href="https://github.com/huunguk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badg=flat-square&logo=GitHub&logoColor=white&link=https://github.com/huunguk"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badg=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badg=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/huunguk@Gmail-EA4335?style=for-the-badg=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://www.instagram.com/huunguk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badg=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/huunguk"/>
  
 #### Go to 🙉
