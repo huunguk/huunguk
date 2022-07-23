@@ -27,7 +27,7 @@
  
 #### Go to 🙉
   
-🔵 [Blog](https://jinhyeounguk.tistory.com/)  ⚪ [Portfolio](https://huunguk.github.io/portfolio/)
+🔵 [Dev-Blog](https://velog.io/@huunguk)  ⚪ [Portfolio](https://huunguk.github.io/portfolio/)
 
   
   
