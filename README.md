@@ -1,14 +1,7 @@
-## HyeongUk 👋
-#### I'm currently studying `React`, `JavaScript`
+### 🧑🏻‍💻 👋 
+- 호기심이 많은 주니어 웹 프론트엔드 개발자입니다.
+- 사용성이 좋은 UX를 위해 토론하는 일을 좋아합니다.
+- 새로운 환경과 사람에 거리낌이 없고 호기심이 많습니다.
 
-#### Blog
-<a href="https://velog.io/@huunguk" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badg=flat-square&logo=Velog&logoColor=white"/></a>
-
-#### Skills
-<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badg=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badg=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badg=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badg=flat-square&logo=React&logoColor=white"/>
-
-#### Tool
-<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badg=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badg=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badg=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badg=flat-square&logo=Git&logoColor=white"/>
-  
-</div>
-
+#### Skill
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue&logoColor=black">  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=black">
